@@ -1,7 +1,6 @@
 # Java-Aplikasi-Laundry
 
-#Aplikasi Laundry Java include dengan upload file dan foto didalamnya#
-
+Aplikasi Laundry Java include dengan upload file dan foto didalamnya
 ##Cara running code##
 ##1. Download Folder Java-Aplikasi-Laundry##
 ##2. Ekstrak Folder##
