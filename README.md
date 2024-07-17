@@ -1,5 +1,6 @@
 # Java-Aplikasi-Laundry
 
+##Indonesia##
 Aplikasi Laundry Java include dengan upload file dan foto didalamnya
 Cara running code :
 
@@ -9,4 +10,10 @@ Cara running code :
 4. Buka Database lalu import databasenya
 5. Jangan lupa add JAR/Library JCalender dan Apache poi
 
-#English
+#English#
+Java Laundry application includes uploading files and photos in it How to run code: 
+1. Download Java-Application-Laundry Folder
+2. Extract Folder
+3. Open folder in Code Editor (free)
+4. Open Database then import the database
+5. Don't forget to add JAR/Library JCalender and Apache poi
